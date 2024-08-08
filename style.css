@@ -1,0 +1,38 @@
+*{
+    background-color:#001f33;
+}
+.title{
+    color:azure;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.text{
+        text-align: center;
+        background-color: #001f33;
+        color: aliceblue;
+}
+
+.product-card{
+    background-color:#0099ff;
+    padding: 10px 5px;
+    width: 250px;
+    border-radius: 15px ;
+    border: 5px solid lightgray;
+    margin: 20px;
+}
+.btn{
+    background-color:aliceblue;
+    padding: 10px ;
+    border-radius: 20px;
+    display: block;
+    margin: 10px auto;   
+}
+.bike{
+    padding: 10px 5px;
+    width: 200px;
+     border-radius: 10px ;
+     border: 4px double lightgray;
+     margin: 20px;
+}
+
+
